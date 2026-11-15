@@ -1,0 +1,2 @@
+Range: 230000 to 239999
+Prime count: 784
